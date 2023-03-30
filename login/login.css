@@ -1,0 +1,12 @@
+.contInput{
+    display: flex;
+    background: white;
+    width: 350px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.divInput{
+}
